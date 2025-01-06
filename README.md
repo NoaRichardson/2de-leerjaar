@@ -1,1 +1,1 @@
-# 2de-leerjaar
+# 2de/3de-leerjaar
