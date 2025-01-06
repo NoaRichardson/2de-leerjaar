@@ -1,0 +1,47 @@
+<html lang="nl">
+<head>
+
+</head>
+<body>
+
+    <form action="new-car.php" method="get">
+        <p>
+            <label for="merk">merk: </label>
+            <input type="text" name="merk" id="merk" required value="audi">
+        </p>
+        <p>
+            <label for="kleur">kleur: </label>
+            <input type="text" name="kleur" id="kleur" required value="red">
+        </p>
+        <p>
+            <label for="naam">naam: </label>
+            <input type="text" name="naam" id="naam" required value="a4">
+        </p>
+        <p>
+            <label for="kenteken">kenteken: </label>
+            <input type="text" name="kenteken" id="kenteken" required value="1l-GH-22">
+        </p>
+        <input type="submit" value="Opslaan">
+    </form>
+    <script>
+        form = document.getElementById('new-car');
+
+        function response(event){
+            alert(event.response);
+        }
+
+        function submitCar(event){
+            event.preventDefault();
+            let formData = new FormData(this);
+            console.dir(formData);
+            let xhr = new XMLHttpRequest();
+            xhr.open('get','new.php');
+            xhr.onload = handleResponse;
+            xhr.send(formData);
+        }
+
+        form.onsubmit = submitCar;
+    </script>
+
+</body>
+</html>

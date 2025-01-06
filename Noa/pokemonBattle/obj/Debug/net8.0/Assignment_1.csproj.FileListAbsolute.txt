@@ -1,0 +1,44 @@
+C:\Users\noa73\source\repos\Assignment_1\Assignment_1\bin\Debug\net8.0\Assignment_1.exe
+C:\Users\noa73\source\repos\Assignment_1\Assignment_1\bin\Debug\net8.0\Assignment_1.deps.json
+C:\Users\noa73\source\repos\Assignment_1\Assignment_1\bin\Debug\net8.0\Assignment_1.runtimeconfig.json
+C:\Users\noa73\source\repos\Assignment_1\Assignment_1\bin\Debug\net8.0\Assignment_1.dll
+C:\Users\noa73\source\repos\Assignment_1\Assignment_1\bin\Debug\net8.0\Assignment_1.pdb
+C:\Users\noa73\source\repos\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noa73\source\repos\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.AssemblyInfoInputs.cache
+C:\Users\noa73\source\repos\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.AssemblyInfo.cs
+C:\Users\noa73\source\repos\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\noa73\source\repos\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.dll
+C:\Users\noa73\source\repos\Assignment_1\Assignment_1\obj\Debug\net8.0\refint\Assignment_1.dll
+C:\Users\noa73\source\repos\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.pdb
+C:\Users\noa73\source\repos\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.genruntimeconfig.cache
+C:\Users\noa73\source\repos\Assignment_1\Assignment_1\obj\Debug\net8.0\ref\Assignment_1.dll
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Assignment_1\Assignment_1\bin\Debug\net8.0\Assignment_1.exe
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Assignment_1\Assignment_1\bin\Debug\net8.0\Assignment_1.deps.json
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Assignment_1\Assignment_1\bin\Debug\net8.0\Assignment_1.runtimeconfig.json
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Assignment_1\Assignment_1\bin\Debug\net8.0\Assignment_1.dll
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Assignment_1\Assignment_1\bin\Debug\net8.0\Assignment_1.pdb
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.AssemblyInfoInputs.cache
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.AssemblyInfo.cs
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.sourcelink.json
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.dll
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Assignment_1\Assignment_1\obj\Debug\net8.0\refint\Assignment_1.dll
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.pdb
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.genruntimeconfig.cache
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Assignment_1\Assignment_1\obj\Debug\net8.0\ref\Assignment_1.dll
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Noa\pokemonBattle\obj\Debug\net8.0\Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Noa\pokemonBattle\obj\Debug\net8.0\Assignment_1.AssemblyInfoInputs.cache
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Noa\pokemonBattle\obj\Debug\net8.0\Assignment_1.AssemblyInfo.cs
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Noa\pokemonBattle\obj\Debug\net8.0\Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Noa\pokemonBattle\obj\Debug\net8.0\Assignment_1.sourcelink.json
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Noa\pokemonBattle\obj\Debug\net8.0\Assignment_1.dll
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Noa\pokemonBattle\obj\Debug\net8.0\refint\Assignment_1.dll
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Noa\pokemonBattle\obj\Debug\net8.0\Assignment_1.pdb
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Noa\pokemonBattle\bin\Debug\net8.0\Assignment_1.exe
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Noa\pokemonBattle\bin\Debug\net8.0\Assignment_1.deps.json
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Noa\pokemonBattle\bin\Debug\net8.0\Assignment_1.runtimeconfig.json
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Noa\pokemonBattle\bin\Debug\net8.0\Assignment_1.dll
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Noa\pokemonBattle\bin\Debug\net8.0\Assignment_1.pdb
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Noa\pokemonBattle\obj\Debug\net8.0\Assignment_1.genruntimeconfig.cache
+C:\Users\noa73\2de leerjaar\opdracht-bovenbouw\Noa\pokemonBattle\obj\Debug\net8.0\ref\Assignment_1.dll
